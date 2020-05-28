@@ -3,7 +3,7 @@
 function addingEventListener() {
   const input = document.getElementById('input');
   input.addEventListener('click', function(event) {
-<<<<<<< HEAD
+
     alert('I was clicked!');
   });
 }
